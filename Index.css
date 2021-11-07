@@ -1,0 +1,46 @@
+body {
+	
+	background-image:url("DaGarden.png");
+	background-size:cover;
+	
+	
+	
+}
+
+
+h1 {
+	
+	color:red;
+	font-weight:light;
+	
+	
+}
+
+p {
+	
+	background-color:aqua;
+	font-size:24pt;
+	font-family:;
+	
+	
+}
+
+a {
+	
+	text-decoration:overline;
+	font-size:20pt;
+	color:rgb(50,200,50);
+	background-color:red;
+	
+	
+	
+	
+}
+
+div.spacer {
+	
+	font-size: 0; 
+    height: 200px;
+    line-height: 0;
+	
+}
